@@ -19,7 +19,7 @@ SCM Tools:
 <br>
 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Shell Scripting](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Shell Scripting](https://img.shields.io/badge/shell_scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 <br>
 Build Tool:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
@@ -27,8 +27,8 @@ Build Tool:
 Artifactory Repository:
 <br>
 Server:
-![Apache TomCat](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache HTTPD](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Apache TomCat](https://img.shields.io/badge/Apache%20TomCat-C71A36?style=for-the-badge&logo=Apache%20TomCat&logoColor=white)
+![Apache HTTPD](https://img.shields.io/badge/Apache%20Httpd-%23D42029.svg?style=for-the-badge&logo=Apache%20Httpd&logoColor=white)
 <br>
 Data Bases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
