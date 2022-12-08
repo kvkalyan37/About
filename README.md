@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, how are you? 👋<br>•	😎I am a Software Engineer with a passion for DevOps.<br>•	📫Shoot me an Email or add me on LinkedIn 😊<br>
+Hi, how are you? 👋<br>•	😎I am a Software Engineer with a passion for DevOps.<br>•	📫Shoot me an [Email](mailto:k.v.kalyan37@protonmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/kvkalyan37) 😊<br>
 
 
 ## 🌐 Socials:
