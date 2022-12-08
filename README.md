@@ -1,9 +1,16 @@
 # 💫 About Me:
-Hi, how are you? 👋<br>•	😎I am a Software Engineer with a passion for DevOps.<br>•	📫Shoot me an [Email](mailto:k.v.kalyan37@protonmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/kvkalyan37) 😊<br>
+Hi, how are you? 👋<br>•	😎I am a Software Engineer with a passion for DevOps.
+<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalyan_kv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k.v.kalyan37) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kvkalyan37) 
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:k.v.kalyan37@protonmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalyan_kv) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)]() 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white)]() 
+
+<br>
 
 # 💻 Tech Stack:
 CI/CD Tools: 
@@ -71,4 +78,8 @@ Monitoring Tools:
 
 
 [![](https://visitcount.itsvg.in/api?id=k.v.kalyan37&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<!-- Ref: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
