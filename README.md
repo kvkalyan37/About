@@ -11,36 +11,62 @@ CI/CD Tools:
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 <br>
+
 Containerization Tools: 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 <br>
+
 SCM Tools:
+![Git](https://img.shields.io/badge/git-%23D42029.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%231A1918.svg?style=for-the-badge&logo=github&logoColor=white) 
 <br>
+
 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Shell Scripting](https://img.shields.io/badge/shell_scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 <br>
+
 Build Tool:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
 <br>
+
+Code Quality:
+![SonarQube](https://img.shields.io/badge/SonarQube-%23121011.svg?style=for-the-badge&logo=SonarQube&logoColor=brightgreen) 
+
+
 Artifactory Repository:
+![Nexus](https://img.shields.io/badge/Nexus-%234ea94b.svg?style=for-the-badge&logo=Nexus&logoColor=white) 
 <br>
 Server:
 ![Apache TomCat](https://img.shields.io/badge/Apache%20TomCat-C71A36?style=for-the-badge&logo=Apache%20TomCat&logoColor=white)
 ![Apache HTTPD](https://img.shields.io/badge/Apache%20Httpd-%23D42029.svg?style=for-the-badge&logo=Apache%20Httpd&logoColor=white)
 <br>
+
 Data Bases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 <br>
+
 Operating Systems:
+![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23D42029.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%23326ce5.svg?style=for-the-badge&logo=windows&logoColor=white) 
 <br>
+
 Ticketing Tools:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![ServiceNow](https://img.shields.io/badge/ServiceNow-%234ea94b.svg?style=for-the-badge&logo=servicenow&logoColor=white)
 <br>
+
 Cloud Provider:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+<br>
+
+Monitoring Tools:
+![Prometheus](https://img.shields.io/badge/prometheus-%231A1918.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
+![Grafana](https://img.shields.io/badge/grafana-%23D42029.svg?style=for-the-badge&logo=grafana&logoColor=white) 
+![NewRelic](https://img.shields.io/badge/NewRelic-%234ea94b.svg?style=for-the-badge&logo=newrelic&logoColor=white) 
 <br>
 
 
